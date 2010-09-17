@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tbook>
+  <contact>
+    <Number>303</Number>
+    <DisplayName>Andy Moore</DisplayName>
+    <FirstName>Andy</FirstName>
+    <LastName>Moore</LastName>
+    <eMail>andy@hotel-broadband.com</eMail>
+    <PictureURL />
+  </contact>
+  <contact>
+    <Number>301</Number>
+    <DisplayName>Ben Clifford2</DisplayName>
+    <FirstName>Ben</FirstName>
+    <LastName>Clifford2</LastName>
+    <eMail>ben@hotel-broadband.com</eMail>
+    <PictureURL />
+  </contact>
+  <contact>
+    <Number>501</Number>
+    <DisplayName>Ben Mobile</DisplayName>
+    <FirstName>Ben</FirstName>
+    <LastName>Mobile</LastName>
+    <eMail />
+    <PictureURL />
+  </contact>
+  <contact>
+    <Number>333</Number>
+    <DisplayName>Bristol Spare Desk</DisplayName>
+    <FirstName>Bristol Spare Desk</FirstName>
+    <LastName />
+    <eMail />
+    <PictureURL />
+  </contact>
+  <contact>
+    <Number>304</Number>
+    <DisplayName>Eryk Czapnik</DisplayName>
+    <FirstName>Eryk</FirstName>
+    <LastName>Czapnik</LastName>
+    <eMail>eryk@hotel-broadband.com</eMail>
+    <PictureURL />
+  </contact>
+  <contact>
+    <Number>305</Number>
+    <DisplayName>James Edwards</DisplayName>
+    <FirstName>James</FirstName>
+    <LastName>Edwards</LastName>
+    <eMail>james.edwards@hotel-broadband.com</eMail>
+    <PictureURL />
+  </contact>
+  <contact>
+    <Number>302</Number>
+    <DisplayName>James Richmond</DisplayName>
+    <FirstName>James</FirstName>
+    <LastName>Richmond</LastName>
+    <eMail>james@hotel-broadband.com</eMail>
+    <PictureURL />
+  </contact>
+  <contact>
+    <Number>500</Number>
+    <DisplayName>Office Response Main HB</DisplayName>
+    <FirstName>Office Response</FirstName>
+    <LastName>Main HB</LastName>
+    <eMail>support@hotel-broadband.com</eMail>
+    <PictureURL />
+  </contact>
+  <contact>
+    <Number>309</Number>
+    <DisplayName>Roman Terehhov</DisplayName>
+    <FirstName>Roman</FirstName>
+    <LastName>Terehhov</LastName>
+    <eMail>roman@hotel-broadband.com</eMail>
+    <PictureURL />
+  </contact>
+  <contact>
+    <Number>01637 882444</Number>
+    <DisplayName>Roy Cruse</DisplayName>
+    <FirstName>Roy</FirstName>
+    <LastName>Cruse</LastName>
+    <eMail />
+    <PictureURL />
+  </contact>
+  <contact>
+    <Number>308</Number>
+    <DisplayName>Steve Odey</DisplayName>
+    <FirstName>Steve</FirstName>
+    <LastName>Odey</LastName>
+    <eMail>steve@hotel-broadband.com</eMail>
+    <PictureURL />
+  </contact>
+  <contact>
+    <Number>399</Number>
+    <DisplayName>Test Yealink</DisplayName>
+    <FirstName>Test</FirstName>
+    <LastName>Yealink</LastName>
+    <eMail />
+    <PictureURL />
+  </contact>
+</tbook>
