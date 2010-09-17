@@ -1,4 +1,3 @@
-#!/usr/bin/php
 <?
 # PHP 5 Script to load 3CX XML phone book and allow searching from Yealink T2X style phones
 # V 0.0.1 Initial commit
@@ -7,7 +6,7 @@
 
 # Vars
 #-------------------------------------------
-$NAME=$_GET["name"];
+$name=$_GET["name"];
 $FROM=$_GET["FROM"];
 
 $xml_pb 	= "pb.xml";
